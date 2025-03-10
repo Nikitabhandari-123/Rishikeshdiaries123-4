@@ -58,12 +58,10 @@ background: linear-gradient(to bottom,0% transparent,100% #111);
     text-align: center;
     justify-content: center;
 }
-
-.img{
+.card_image a{
     width: 100%;
-    height: 100%;
+    height: 20rem;
 }
-
 .main-form{
     display: grid;
     gap: 1rem;
