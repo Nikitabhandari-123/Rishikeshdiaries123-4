@@ -71,12 +71,6 @@ background: linear-gradient(to bottom,0% transparent,100% #111);
     align-content: center;
     text-align: center;
 }
-.xyz{
-    font-size: 1rem;
-}
-.main{
-    background-color:aliceblue;
-}
 .destination_page{
     margin-top: 5rem;
 }
