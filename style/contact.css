@@ -1,0 +1,44 @@
+.contact{
+    text-align: center;
+    text-decoration: underline;
+
+}
+.form label{
+    display: block;
+    font-size:1rem;
+}
+.form input{
+    border-radius: 18rem;
+    gap: 1rem;
+}
+.main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    text-align: center;
+    justify-content: center;
+}
+
+.img{
+    width: 100%;
+    height: 100%;
+
+}
+.main-form{
+    display: grid;
+    gap: 1rem;
+    padding: 2rem;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+}
+
+
+.xyz{
+    font-size: 1rem;
+}
+.main{
+    background-color:aliceblue;
+}
+
+
