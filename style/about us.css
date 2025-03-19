@@ -36,6 +36,7 @@ background: linear-gradient(to bottom,0% transparent,100% #111);
 .sub-div{
     display: flex;
     background-color: aliceblue;
+    text-decoration: underline;
 }
 .about-1{
 
