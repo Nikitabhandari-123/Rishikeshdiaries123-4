@@ -1,3 +1,24 @@
+header{
+    width:100%;
+position: fixed;
+z-index: 1000;
+background-color: rgba(255,255,255,0.5);
+background: linear-gradient(to bottom,0% transparent,100% #111);
+}
+
+.head-btn{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    list-style: none;
+    gap:6.6rem;
+    font-size: 1.5rem;
+   font-weight: 700;
+}
+.head-btn a{
+    text-decoration: none;
+    color: black;}
 
 .shape{
     text-align: center;
